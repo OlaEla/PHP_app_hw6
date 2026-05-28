@@ -1,14 +1,10 @@
 # reminger-tg-bot
 
-# Вокруг PHP – экосистема веб-приложений
-
 # Telegram Reminder Bot с асинхронной обработкой событий (RabbitMQ + PHP)
 
 [![PHP](https://img.shields.io/badge/PHP-8.2-777BB4?logo=php)](https://php.net)
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-3.x-FF6600?logo=rabbitmq)](https://rabbitmq.com)
 [![Supervisor](https://img.shields.io/badge/Supervisor-4.x-1E90FF)](http://supervisord.org/)
-
-## Задание 6. Очереди в PHP
 
 ## О проекте
 
